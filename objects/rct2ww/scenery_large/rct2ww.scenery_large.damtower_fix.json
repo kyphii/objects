@@ -4,6 +4,7 @@
         "Frontier Studios"
     ],
     "version": "1.0",
+    "originalId": "00000012|#WWDAMTF|00000000",
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
@@ -60,7 +61,7 @@
             "ru-RU": "Башня дамбы",
             "pt-BR": "Torre da Represa",
             "ja-JP": "ダムタワー",
-            "eo-ZZ": "Turo de Baraĵo",
+            "eo-ZZ": "Turo de baraĵo",
             "ca-ES": "Torre de la presa",
             "fi-FI": "Padon torni",
             "gl-ES": "Torre da presa"

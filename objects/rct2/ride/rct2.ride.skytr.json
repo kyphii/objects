@@ -16,7 +16,7 @@
         "category": "rollercoaster",
         "minCarsPerTrain": 1,
         "maxCarsPerTrain": 2,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 10,
             "intensity": 25,
             "nausea": 15
@@ -90,7 +90,7 @@
             "ja-JP": "ミニ・サスペンデッド・フライング・コースター",
             "pl-PL": "Podwieszana minikolejka (leżąca)",
             "ru-RU": "Лежачие машины",
-            "eo-ZZ": "Kuŝiĝantaj Ĉaroj",
+            "eo-ZZ": "Kuŝiĝantaj ĉaroj",
             "ca-ES": "Muntanya russa amb passatgers gitats en cotxes",
             "fi-FI": "Makuuvaunut",
             "gl-ES": "Vagóns deitados"

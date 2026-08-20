@@ -179,6 +179,7 @@
             "rotationFrameMask": 15,
             "spacing": 152576,
             "mass": 250,
+            "tabOffset": -2,
             "numSeats": 1,
             "numSeatRows": 1,
             "frictionSoundId": 21,
@@ -307,7 +308,9 @@
             "ru-RU": "Картинг (со шлемом)",
             "gl-ES": "Go-Karts (con cascos)",
             "ar-EG": "عربات الكارتينج (مع خوذ)",
-            "cs-CZ": "Motokáry (s přilbami)"
+            "cs-CZ": "Motokáry (s přilbami)",
+            "hu-HU": "Gokartok (sisakokkal)",
+            "eo-ZZ": "Vetkuraj aŭtetoj (kun kaskoj)"
         },
         "description": {
             "en-GB": "Self-driven petrol-engined go-karts that come with safety helmets",
@@ -323,7 +326,9 @@
             "ru-RU": "Бензиновые машины для картинга со шлемами безопасности",
             "gl-ES": "Go-Karts de gasolina autoconducidos que inclúen cascos de seguridade",
             "ar-EG": "عربات كارتينج ذاتية القيادة تعمل بالبنزين وتأتي مع خوذات أمان",
-            "cs-CZ": "Návštěvníci v závodních helmách řídí benzínové motokáry"
+            "cs-CZ": "Návštěvníci v závodních helmách řídí benzínové motokáry",
+            "hu-HU": "Önjáró, benzinmotoros gokartok, amelyekhez biztonsági sisak is jár",
+            "eo-ZZ": "Vetkuraj aŭtetoj kun benzinmotoroj kaj protektaj kaskoj, kiujn pasaĝeroj stiras per si mem"
         },
         "capacity": {
             "en-GB": "single-seater",
@@ -345,7 +350,9 @@
             "ca-ES": "1 passatger",
             "fi-FI": "Yksipaikkainen",
             "gl-ES": "monopraza",
-            "ar-EG": "مقعد واحد"
+            "ar-EG": "مقعد واحد",
+            "hu-HU": "Egyszemélyes",
+            "eo-ZZ": "unu-seĝa"
         }
     }
 }

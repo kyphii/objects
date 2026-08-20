@@ -23,7 +23,7 @@
             "en-GB": "Yellow Queue (Sloped)",
             "de-DE": "Gelbe Warteschlange (Schräge)",
             "nl-NL": "Gele wachtrij (met helling)",
-            "eo-ZZ": "Flava Atendovico (Dekliva)",
+            "eo-ZZ": "Flava atendovico (dekliva)",
             "ar-EG": "طابور إنتظار أصفر (مُنحدر)",
             "ca-ES": "Cua groga (amb escales)",
             "fr-FR": "File d’attente jaune (pente)",
@@ -35,7 +35,8 @@
             "ru-RU": "Жёлтая очередь (с наклоном)",
             "gl-ES": "Cola amarela (inclinado)",
             "ja-JP": "黄色い行列（傾斜）",
-            "cs-CZ": "Žlutá fronta (se svahy)"
+            "cs-CZ": "Žlutá fronta (se svahy)",
+            "hu-HU": "Sárga várósor (lejtős)"
         }
     }
 }

@@ -12,10 +12,14 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Steel Corkscrew Roller Coaster Competition"
+            "en-GB": "Steel Corkscrew Roller Coaster Competition",
+            "ca-ES": "Competició de muntanyes russes d’acer amb tirabuixons",
+            "pl-PL": "Zawody w budowaniu stalowych kolejek korkociągowych"
         },
         "park_name": {
-            "en-GB": "Competition Land"
+            "en-GB": "Competition Land",
+            "ca-ES": "Terreny de competició",
+            "pl-PL": "Kraina rywalizacji"
         },
         "details": {
             "en-GB": ""

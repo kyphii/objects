@@ -49,10 +49,11 @@
             "ja-JP": "クラシック/ローマ風のテーマ",
             "pl-PL": "Wystrój klasyczny/rzymski",
             "ru-RU": "Классическая/римская тема",
-            "eo-ZZ": "Klasika / Roma Temo",
+            "eo-ZZ": "Klasika / romia temo",
             "ca-ES": "Temàtica clàssica i romana",
             "fi-FI": "Klassinen/roomalainen teemaus",
-            "gl-ES": "Temática Clásica/Romana"
+            "gl-ES": "Temática Clásica/Romana",
+            "hu-HU": "Klasszikus/római téma"
         }
     }
 }

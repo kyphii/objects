@@ -34,10 +34,9 @@
             "poweredAcceleration": 8,
             "poweredMaxSpeed": 5,
             "drawOrder": 5,
-            "frames": {
-                "flat": true
+            "spriteGroups": {
+                "slopeFlat": 16
             },
-            "VEHICLE_ENTRY_FLAG_11": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "hasRiderAnimation": true,
@@ -67,7 +66,7 @@
             "pl-PL": "Przejażdżka na dawach",
             "pt-BR": "Barcos Veleiros",
             "ru-RU": "Лодки для рыбалки",
-            "eo-ZZ": "Daŭo-Boatoj",
+            "eo-ZZ": "Daŭo-boatoj",
             "ca-ES": "Barques àrabs",
             "fi-FI": "Dhow-veneet",
             "gl-ES": "Barcos Dhow"

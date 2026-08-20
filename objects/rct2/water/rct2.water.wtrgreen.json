@@ -7,6 +7,7 @@
     "version": "1.0",
     "originalId": "0A188089|WTRGREEN|4025590B",
     "sourceGame": "rct2",
+    "isCompatibilityObject": true,
     "objectType": "water",
     "properties": {
         "palettes": {
@@ -391,10 +392,11 @@
             "pl-PL": "Jaskrawozielona woda",
             "ru-RU": "Кислотно-зелёная вода",
             "ar-EG": "مياة حمضية خضراء",
-            "eo-ZZ": "Acidverda Akvo",
+            "eo-ZZ": "Acidverda akvo",
             "ca-ES": "Aigua verd àcid",
             "fi-FI": "Haponvihreä vesi",
-            "gl-ES": "Auga Verde Ácida"
+            "gl-ES": "Auga Verde Ácida",
+            "hu-HU": "Savzöld víz"
         }
     }
 }

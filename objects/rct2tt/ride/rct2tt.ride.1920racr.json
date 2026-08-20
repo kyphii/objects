@@ -178,6 +178,7 @@
             "rotationFrameMask": 31,
             "spacing": 209100,
             "mass": 250,
+            "tabOffset": -4,
             "numSeats": 1,
             "numSeatRows": 1,
             "frictionSoundId": 21,
@@ -217,7 +218,7 @@
             "cs-CZ": "Motokáry z 20. let",
             "pl-PL": "Wyścigówki z lat 20.",
             "ru-RU": "Машинки 1920 годов",
-            "eo-ZZ": "Vetkuraŭtoj de la 1920-aj",
+            "eo-ZZ": "Vetkuraŭtoj de la 1920-aj jaroj",
             "ca-ES": "Cotxes de carreres del 1920",
             "fi-FI": "1920-luvun kilpa-autot",
             "zh-CN": "1920年代赛车",
@@ -266,7 +267,7 @@
             "fi-FI": "Yksipaikkainen",
             "zh-CN": "单座",
             "gl-ES": "Monopraza",
-            "hu-HU": "Együléses"
+            "hu-HU": "Egyszemélyes"
         }
     }
 }

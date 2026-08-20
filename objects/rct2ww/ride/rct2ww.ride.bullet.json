@@ -17,7 +17,7 @@
         "defaultCar": 1,
         "headCars": 0,
         "tailCars": 2,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "intensity": 10
         },
         "carColours": [
@@ -149,7 +149,8 @@
             "eo-ZZ": "Ŝinkansenoj",
             "ca-ES": "Tren bala",
             "fi-FI": "Luotijunat",
-            "gl-ES": "Trens Bala"
+            "gl-ES": "Trens Bala",
+            "hu-HU": "Szuperexpressz"
         },
         "description": {
             "en-GB": "Japanese Bullet Train themed roller coaster cars",
@@ -166,10 +167,11 @@
             "pl-PL": "Kolejka z wagonikami o kształcie nawiązującym do superszybkiego japońskiego ekspresu",
             "ru-RU": "Поезда для аттракционов в стиле японской пули-поезда",
             "pt-BR": "Montanha-russa com vagões temáticos inspirados no trem bala japonês",
-            "eo-ZZ": "Ĉaroj de onda fervojo kun temo de Japana Ŝinkanseno",
+            "eo-ZZ": "Ĉaroj de onda fervojo kun temo de japana Ŝinkanseno",
             "ca-ES": "Cotxes de muntanya russa tematitzats com un tren bala japonès.",
             "fi-FI": "Japanilaisen luotijunan näköisiksi teematut vuoristoratavaunut",
-            "gl-ES": "Vagóns de montaña rusa co tema do Tren Bala Xaponés"
+            "gl-ES": "Vagóns de montaña rusa co tema do Tren Bala Xaponés",
+            "hu-HU": "Japán szuperexpresszvonat-témájú hullámvasútkocsik"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -189,7 +191,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "hu-HU": "4 fő kocsinként"
         }
     }
 }

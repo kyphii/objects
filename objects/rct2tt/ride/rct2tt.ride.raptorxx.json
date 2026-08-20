@@ -10,7 +10,7 @@
     "properties": {
         "type": "steeplechase",
         "category": "rollercoaster",
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 3
         },
         "carColours": [
@@ -63,7 +63,7 @@
             "cs-CZ": "Raptoři",
             "pl-PL": "Wyścigi raptorów",
             "ru-RU": "Гонки рапторов",
-            "eo-ZZ": "Vetkurantaj Raptoroj",
+            "eo-ZZ": "Vetkurantaj raptoroj",
             "ca-ES": "Carreres de velociraptors",
             "fi-FI": "Kilparaptorit",
             "zh-CN": "猛龙赛车",

@@ -12,10 +12,14 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Competition Land 2"
+            "en-GB": "Competition Land 2",
+            "ca-ES": "Terreny de competició 2",
+            "pl-PL": "Kraina rywalizacji 2"
         },
         "park_name": {
-            "en-GB": "Competition Land"
+            "en-GB": "Competition Land",
+            "ca-ES": "Terreny de competició",
+            "pl-PL": "Kraina rywalizacji"
         },
         "details": {
             "en-GB": ""

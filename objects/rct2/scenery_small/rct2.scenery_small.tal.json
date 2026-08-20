@@ -41,10 +41,11 @@
             "ja-JP": "ワニの形の木",
             "pl-PL": "Drzewo aligatorowe",
             "ru-RU": "Дерево в форме крокодила",
-            "eo-ZZ": "Aligatorforma Arbo",
+            "eo-ZZ": "Aligatorforma arbo",
             "ca-ES": "Arbre amb forma d’al·ligàtor",
             "fi-FI": "Alligaattorin muotoinen puu",
-            "gl-ES": "Árbore en forma de caimán"
+            "gl-ES": "Árbore en forma de caimán",
+            "hu-HU": "Aligátor alakú fa"
         }
     }
 }

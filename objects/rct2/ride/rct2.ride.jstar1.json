@@ -11,7 +11,7 @@
     "properties": {
         "type": "mini_rc",
         "category": "rollercoaster",
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 3,
             "intensity": 1
         },
@@ -94,7 +94,7 @@
             "ja-JP": "トボガン車両",
             "pl-PL": "Na saneczki",
             "ru-RU": "Сани",
-            "eo-ZZ": "Sledo-Ĉaroj",
+            "eo-ZZ": "Sledo-ĉaroj",
             "ca-ES": "Trineus",
             "fi-FI": "Kelkkavaunut",
             "gl-ES": "Coches de escorregadoiro"

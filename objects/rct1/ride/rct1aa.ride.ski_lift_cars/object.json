@@ -12,7 +12,7 @@
     "properties": {
         "type": "chairlift",
         "category": "transport",
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 4,
             "intensity": 36,
             "nausea": 18
@@ -147,11 +147,12 @@
             "ja-JP": "スキーリフト車両",
             "pl-PL": "Podniebne krzesełka",
             "ru-RU": "Лыжные кресла",
-            "eo-ZZ": "Skilifto-Seĝoj",
+            "eo-ZZ": "Skilifto-seĝoj",
             "ca-ES": "Telecadires",
             "fi-FI": "Hiihtohissivaunut",
             "gl-ES": "Cadeiras de telesquí",
-            "ar-EG": "كراسي مصعد التزلج"
+            "ar-EG": "كراسي مصعد التزلج",
+            "hu-HU": "Sífelvonó-székek"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -173,7 +174,8 @@
             "ca-ES": "Cotxes oberts per al telecadira.",
             "fi-FI": "Avoilmavaunut tuolihissiin",
             "gl-ES": "Coches abertos para telecadeira",
-            "ar-EG": "عربات مفتوحة للتلفريك"
+            "ar-EG": "عربات مفتوحة للتلفريك",
+            "hu-HU": "Nyitott kocsik a felvonóhoz"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -195,7 +197,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

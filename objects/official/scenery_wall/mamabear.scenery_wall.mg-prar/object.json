@@ -10,6 +10,7 @@
     "objectType": "scenery_wall",
     "properties": {
         "isDoor": true,
+        "isTransparent": true,
         "height": 4,
         "price": 120,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
@@ -64,7 +65,7 @@
             "tr-TR": "Geçitli duvar",
             "pl-PL": "Ściana z przejściem",
             "ko-KR": "문이 있는 벽",
-            "eo-ZZ": "Muro kun Koridoro",
+            "eo-ZZ": "Muro kun koridoro",
             "es-ES": "Pared con abertura",
             "it-IT": "Muro con passaggio",
             "sv-SE": "Vägg med passage",

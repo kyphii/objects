@@ -10,7 +10,6 @@
     "objectType": "scenery_wall",
     "properties": {
         "isBanner": true,
-        "isOpaque": true,
         "height": 4,
         "price": 100
     },
@@ -34,11 +33,12 @@
             "ja-JP": "「テキサスジャイアント」看板",
             "pl-PL": "Napis Teksański Gigant",
             "ru-RU": "Знак «Техасский Гигант»",
-            "eo-ZZ": "‘Texas Giant’ Afiŝo",
+            "eo-ZZ": "Afiŝo ‘Texas Giant’",
             "ca-ES": "Senyal «Texas Giant»",
             "fi-FI": "”Texas Giant”-kyltti",
             "tr-TR": "‘Texas Giant’ Sign",
-            "gl-ES": "Sinal de ‘Texas Xigante’"
+            "gl-ES": "Sinal de ‘Texas Xigante’",
+            "hu-HU": "„Texas Giant” tábla"
         }
     }
 }

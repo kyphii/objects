@@ -42,12 +42,13 @@
             "pt-BR": "Escultura Geométrica",
             "cs-CZ": "Geometrická socha",
             "ja-JP": "幾何学的彫刻",
-            "pl-PL": "Rzeţba geometryczna",
+            "pl-PL": "Rzeźba geometryczna",
             "ru-RU": "Геометрическая скульптура",
-            "eo-ZZ": "Geometria Skulptaĵo",
+            "eo-ZZ": "Geometria skulptaĵo",
             "ca-ES": "Escultura geomètrica",
             "fi-FI": "Geometrinen veistos",
-            "gl-ES": "Escultura Xeométrica"
+            "gl-ES": "Escultura Xeométrica",
+            "hu-HU": "Geometrikus szobor"
         }
     }
 }

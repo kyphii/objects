@@ -22,12 +22,12 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Kremlin Small Tower Base",
+            "en-GB": "St. Basil’s Cathedral Small Tower Base",
             "fr-FR": "Base de petite tour du Kremlin",
             "de-DE": "Kreml - Kleiner Turm - Basis",
             "es-ES": "Base de torre pequeña del Kremlin",
             "it-IT": "Base di torre piccola del Cremlino",
-            "nl-NL": "Kleine basis toren Kremlin",
+            "nl-NL": "Kleine basis toren Basiliuskathedraal",
             "sv-SE": "Bas till litet Kreml-torn",
             "cs-CZ": "Kremlinská věž - základ",
             "ko-KR": "크렘린 작은 탑 기본",
@@ -35,7 +35,7 @@
             "ru-RU": "Основание маленькой кремлёвской башни",
             "pt-BR": "Base de Torre Pequena do Kremlin",
             "ja-JP": "クレムリン　小さな塔　土台",
-            "eo-ZZ": "Bazo de Malgranda Turo de Kremlo",
+            "eo-ZZ": "Bazo de malgranda turo de Kremlo",
             "ca-ES": "Base de torre petita del Kremlin",
             "fi-FI": "Kremlinin pienen tornin perusta",
             "zh-CN": "克里姆林宫-小型塔底座",

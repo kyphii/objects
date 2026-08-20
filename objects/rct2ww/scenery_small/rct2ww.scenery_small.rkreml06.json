@@ -22,12 +22,12 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Kremlin Small Tower Mid-Section",
+            "en-GB": "St. Basil’s Cathedral Small Tower Mid-Section",
             "fr-FR": "Section moyenne de petite tour du Kremlin",
             "de-DE": "Kreml - Kleiner Turm - Mitte",
             "es-ES": "Sección intermedia de torre pequeña del Kremlin",
             "it-IT": "Sezione centrale di torre piccola del Cremlino",
-            "nl-NL": "Kleine middengedeelte Minaret-toren Kremlin",
+            "nl-NL": "Klein middengedeelte zijtoren Basiliuskathedraal",
             "sv-SE": "Mittparti till litet Kreml-torn",
             "cs-CZ": "Kremlinská věž - střed",
             "ko-KR": "크렘린 작은 탑 중간 섹션",
@@ -35,7 +35,7 @@
             "ru-RU": "Середина маленькой кремлёвская башни",
             "pt-BR": "Seção Intermediária de Torre Pequena do Kremlin",
             "ja-JP": "クレムリン　小さな塔　中間部分",
-            "eo-ZZ": "Mezparto de Malgranda Turo de Kremlo",
+            "eo-ZZ": "Mezparto de malgranda turo de Kremlo",
             "ca-ES": "Part mitjana de torre petita del Kremlin",
             "fi-FI": "Kremlinin pienen tornin keskiosa",
             "zh-CN": "克里姆林宫-小型塔中段",

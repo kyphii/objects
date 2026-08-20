@@ -37,12 +37,13 @@
             "pt-BR": "Escultura",
             "cs-CZ": "Socha",
             "ja-JP": "彫刻",
-            "pl-PL": "Rzeţba",
+            "pl-PL": "Rzeźba",
             "ru-RU": "Скульптура",
             "fr-FR": "Sculpture",
             "eo-ZZ": "Skulptaĵo",
             "ca-ES": "Escultura",
-            "fi-FI": "Veistos"
+            "fi-FI": "Veistos",
+            "hu-HU": "Szobor"
         }
     }
 }

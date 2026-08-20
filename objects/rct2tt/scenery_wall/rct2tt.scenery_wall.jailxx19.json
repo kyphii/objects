@@ -8,6 +8,7 @@
     "sourceGame": "rct2tt",
     "objectType": "scenery_wall",
     "properties": {
+        "isTransparent": true,
         "isAllowedOnSlope": true,
         "height": 10,
         "price": 70,
@@ -32,7 +33,7 @@
             "pl-PL": "Więzienne ogrodzenie",
             "ru-RU": "Тюремный забор",
             "ja-JP": "刑務所のフェンス",
-            "eo-ZZ": "Barilo de Malliberejo",
+            "eo-ZZ": "Barilo de malliberejo",
             "ca-ES": "Tanca de presó",
             "fi-FI": "Vankilan aita",
             "zh-CN": "监狱-围栏",

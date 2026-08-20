@@ -41,10 +41,11 @@
             "ja-JP": "ハート形の木",
             "pl-PL": "Drzewo sercowe",
             "ru-RU": "Дерево в форме червей",
-            "eo-ZZ": "Korforma Arbo",
+            "eo-ZZ": "Kerforma arbo",
             "ca-ES": "Arbre en forma de cor",
             "fi-FI": "Hertan muotoinen puu",
-            "gl-ES": "Árbore en forma de corazón"
+            "gl-ES": "Árbore en forma de corazón",
+            "hu-HU": "Szív alakú fa"
         }
     }
 }

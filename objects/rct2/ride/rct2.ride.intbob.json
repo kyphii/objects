@@ -11,7 +11,7 @@
     "properties": {
         "type": "bobsleigh_rc",
         "category": "rollercoaster",
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 5
         },
         "carColours": [
@@ -87,7 +87,7 @@
             "ja-JP": "フライング・ターン",
             "pl-PL": "Latające zakręty",
             "ru-RU": "6-местный бобслей",
-            "eo-ZZ": "Bobsledoj kun 6 seĝoj",
+            "eo-ZZ": "6-seĝaj bobsledoj",
             "ca-ES": "Bob de 6 seients",
             "fi-FI": "Kuusipaikkaiset rattikelkat",
             "en-US": "6-seater Bobsleds",

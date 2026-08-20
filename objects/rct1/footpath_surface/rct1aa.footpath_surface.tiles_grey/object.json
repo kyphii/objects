@@ -31,7 +31,7 @@
             "ja-JP": "グレーのタイルの歩道",
             "pl-PL": "Szara ścieżka mozaikowa",
             "ko-KR": "회색 타일 보도",
-            "eo-ZZ": "Griza Kahelita Trotuaro",
+            "eo-ZZ": "Griza kahelita trotuaro",
             "sv-SE": "Grå stenlagd gångväg",
             "ca-ES": "Camí enrajolat gris",
             "en-US": "Gray Tiled Footpath",
@@ -39,7 +39,8 @@
             "zh-CN": "灰色瓷砖人行道",
             "ru-RU": "Серая плитка",
             "gl-ES": "Camiño de lousas gris",
-            "cs-CZ": "Šedá dlážděná cesta"
+            "cs-CZ": "Šedá dlážděná cesta",
+            "hu-HU": "Szürke kőlapos járda"
         }
     }
 }

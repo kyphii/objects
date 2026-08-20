@@ -64,7 +64,7 @@
             "fr-FR": "Échiquier",
             "pl-PL": "Szachownica",
             "ko-KR": "체스판",
-            "eo-ZZ": "Damludo-Tablo",
+            "eo-ZZ": "Damludo-tablo",
             "sv-SE": "Schackbräde",
             "ca-ES": "Tauler d’escacs",
             "fi-FI": "Shakkilauta",
@@ -72,7 +72,8 @@
             "ru-RU": "Шахматная доска",
             "gl-ES": "Taboleiro de Damas",
             "cs-CZ": "Šachovnice",
-            "es-ES": "Tablero de Ajedrez"
+            "es-ES": "Tablero de Ajedrez",
+            "hu-HU": "Sakktáblaminta"
         }
     }
 }

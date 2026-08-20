@@ -44,10 +44,11 @@
             "ja-JP": "宇宙カプセル",
             "pl-PL": "Kosmiczna kapsuła",
             "ru-RU": "Космическая капсула",
-            "eo-ZZ": "Kosma Kapsulo",
+            "eo-ZZ": "Kosma kapsulo",
             "ca-ES": "Càpsula espacial",
             "fi-FI": "Avaruuskapseli",
-            "gl-ES": "Cápsula Espacial"
+            "gl-ES": "Cápsula Espacial",
+            "hu-HU": "Űrkapszula"
         }
     }
 }

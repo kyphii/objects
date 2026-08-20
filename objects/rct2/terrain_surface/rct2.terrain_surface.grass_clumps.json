@@ -35,7 +35,7 @@
             "fr-FR": "Touffes d’herbe",
             "pl-PL": "Kępy trawy",
             "ko-KR": "잔디 수풀",
-            "eo-ZZ": "Tufoj da Herbo",
+            "eo-ZZ": "Tufoj da herbo",
             "sv-SE": "Grästuvor",
             "ca-ES": "Clap de gespa",
             "fi-FI": "Ruohomättäitä",
@@ -43,7 +43,8 @@
             "ru-RU": "Куски травы",
             "gl-ES": "Touzas de Herba",
             "cs-CZ": "Trsy trávy",
-            "es-ES": "Matorrales de Hierba"
+            "es-ES": "Matorrales de Hierba",
+            "hu-HU": "Fűcsomók"
         }
     }
 }

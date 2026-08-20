@@ -12,10 +12,14 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Go Karts Competition"
+            "en-GB": "Go Karts Competition",
+            "ca-ES": "Competició de karts",
+            "pl-PL": "Zawody w budowaniu torów gokartowych"
         },
         "park_name": {
-            "en-GB": "Competition Land"
+            "en-GB": "Competition Land",
+            "ca-ES": "Terreny de competició",
+            "pl-PL": "Kraina rywalizacji"
         },
         "details": {
             "en-GB": ""

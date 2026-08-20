@@ -17,7 +17,7 @@
             "water",
             "gentle"
         ],
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 3,
             "nausea": 2
         },
@@ -55,10 +55,9 @@
             "poweredMaxSpeed": 5,
             "drawOrder": 5,
             "numVerticalFramesOverride": 2,
-            "frames": {
-                "flat": true
+            "spriteGroups": {
+                "slopeFlat": 16
             },
-            "VEHICLE_ENTRY_FLAG_11": true,
             "overrideNumberOfVerticalFrames": true,
             "hasAdditionalColour1": true,
             "isPowered": true,
@@ -91,7 +90,7 @@
             "ja-JP": "ウォーター・トライサイクル",
             "pl-PL": "Rowery wodne",
             "ru-RU": "Водные велосипеды",
-            "eo-ZZ": "Akvo-Tricikloj",
+            "eo-ZZ": "Akvo-tricikloj",
             "ca-ES": "Tricicles d’aigua",
             "fi-FI": "Vesikolmipyörä",
             "gl-ES": "Triciclos acuáticos"

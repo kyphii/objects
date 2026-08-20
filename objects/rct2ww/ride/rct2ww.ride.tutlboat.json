@@ -13,7 +13,7 @@
             "water",
             "thrill"
         ],
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 30,
             "intensity": 15,
             "nausea": 15
@@ -45,6 +45,7 @@
             "rotationFrameMask": 31,
             "spacing": 270196,
             "mass": 140,
+            "tabOffset": -3,
             "numSeats": 2,
             "numSeatRows": 1,
             "poweredAcceleration": 220,
@@ -83,7 +84,7 @@
             "pl-PL": "Wyścigi żółwi",
             "pt-BR": "Botes Tartaruga",
             "ru-RU": "Лодки-черепахи",
-            "eo-ZZ": "Testudo-Boatoj",
+            "eo-ZZ": "Testudo-boatoj",
             "ca-ES": "Bots tortuga",
             "fi-FI": "Kilpikonnaveneet",
             "gl-ES": "Barcos Tartaruga"

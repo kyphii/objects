@@ -8,6 +8,7 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
+        "isTransparent": true,
         "isAllowedOnSlope": true,
         "height": 4,
         "price": 50
@@ -31,10 +32,11 @@
             "ru-RU": "Стена кабаны",
             "pt-BR": "Peça de Parede da Cabana",
             "ja-JP": "小屋の壁",
-            "eo-ZZ": "Muroparto de Budo",
+            "eo-ZZ": "Muroparto de budo",
             "ca-ES": "Part de paret de cabanya",
             "fi-FI": "Cabanan seinän osa",
-            "gl-ES": "Peza de Parede da Cabana"
+            "gl-ES": "Peza de Parede da Cabana",
+            "hu-HU": "Pihenőkunyhó falelem"
         }
     }
 }

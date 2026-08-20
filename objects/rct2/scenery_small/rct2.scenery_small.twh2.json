@@ -42,10 +42,11 @@
             "ja-JP": "カボチャの家",
             "pl-PL": "Dom dyniowy",
             "ru-RU": "Тыквенный дом",
-            "eo-ZZ": "Kukurbo-Domo",
+            "eo-ZZ": "Kukurbo-domo",
             "ca-ES": "Casa carabassa",
             "fi-FI": "Kurpitsatalo",
-            "gl-ES": "Casa da cabaza"
+            "gl-ES": "Casa da cabaza",
+            "hu-HU": "Tökház"
         }
     }
 }

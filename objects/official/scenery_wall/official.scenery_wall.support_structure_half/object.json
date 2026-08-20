@@ -5,11 +5,12 @@
         "Simon Foster"
     ],
     "version": "1.0",
+    "originalId": "00000033|#SUPWL01|00000000",
     "sourceGame": "official",
     "objectType": "scenery_wall",
     "properties": {
         "hasPrimaryColour": true,
-        "isOpaque": true,
+        "isTransparent": true,
         "height": 2,
         "price": 50
     },
@@ -34,7 +35,7 @@
             "ja-JP": "支持構造物",
             "pl-PL": "Podpora",
             "ru-RU": "Структура поддержки",
-            "eo-ZZ": "Subtena Konstruaĵo",
+            "eo-ZZ": "Subtena konstruaĵo",
             "ca-ES": "Estructura de suport",
             "fi-FI": "Tukirakenne",
             "gl-ES": "Estrutura de apoio",

@@ -13,7 +13,7 @@
         "tabScale": 0.5,
         "hasShelter": true,
         "carsPerFlatRide": 1,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 11,
             "intensity": 3,
             "nausea": 1
@@ -963,7 +963,7 @@
             "cs-CZ": "Dvoupatrový kolotoč",
             "pl-PL": "Karuzela z konikami",
             "ru-RU": "Двухэтажная карусель",
-            "eo-ZZ": "Duetaĝa Karuselo",
+            "eo-ZZ": "Duetaĝa karuselo",
             "ca-ES": "Cavallets de dos pisos",
             "fi-FI": "Kaksikerroksinen karuselli",
             "zh-CN": "双层旋转木马",

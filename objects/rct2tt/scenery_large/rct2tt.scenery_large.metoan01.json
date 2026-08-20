@@ -47,11 +47,12 @@
             "pl-PL": "Narożnik krateru po meteorycie",
             "ru-RU": "Угол метеоритного кратера",
             "ja-JP": "隕石火口 コーナー",
-            "eo-ZZ": "Angulo de Bolido-Kratero",
+            "eo-ZZ": "Angulo de bolido-kratero",
             "ca-ES": "Cantonada de cràter de meteorit",
             "fi-FI": "Meteorikraaterin kulma",
             "zh-CN": "陨石坑-转角",
-            "gl-ES": "Recuncho do cráter do meteorito"
+            "gl-ES": "Recuncho do cráter do meteorito",
+            "hu-HU": "Meteorkráter sarok"
         }
     }
 }

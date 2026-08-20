@@ -17,7 +17,7 @@
             "water",
             "gentle"
         ],
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 5,
             "intensity": 2
         },
@@ -40,10 +40,9 @@
             "poweredAcceleration": 8,
             "poweredMaxSpeed": 5,
             "drawOrder": 5,
-            "frames": {
-                "flat": true
+            "spriteGroups": {
+                "slopeFlat": 16
             },
-            "VEHICLE_ENTRY_FLAG_11": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "hasRiderAnimation": true,
@@ -76,10 +75,11 @@
             "ja-JP": "スワンボート",
             "pl-PL": "Łabędzie",
             "ru-RU": "Лебеди",
-            "eo-ZZ": "Cigno-Boatoj",
+            "eo-ZZ": "Cigno-boatoj",
             "ca-ES": "Cignes",
             "fi-FI": "Joutsenet",
-            "gl-ES": "Cisnes"
+            "gl-ES": "Cisnes",
+            "hu-HU": "Hattyúk"
         },
         "description": {
             "en-GB": "Swan-shaped boats, propelled by the pedalling front seat passengers",
@@ -101,7 +101,8 @@
             "eo-ZZ": "Cignoformaj boatoj, kiujn la pedalado de la frontaj pasaĝeroj antaŭenigas",
             "ca-ES": "Barques en forma de cignes que els passatgers mouen pedalant.",
             "fi-FI": "Joutsenen muotoiset veneet, jotka liikkuvat eturivin matkustajien polkemana",
-            "gl-ES": "Barcos con forma de cisne, propulsados polos pasaxeiros do asento dianteiro que pedalean"
+            "gl-ES": "Barcos con forma de cisne, propulsados polos pasaxeiros do asento dianteiro que pedalean",
+            "hu-HU": "Hattyú formájú csónakok, amelyeket az első ülésen pedálozó utasok hajtanak"
         },
         "capacity": {
             "en-GB": "4 passengers per boat",
@@ -121,7 +122,8 @@
             "ru-RU": "4 пассажира на лодку",
             "eo-ZZ": "Po 4 pasaĝeroj por boato",
             "ca-ES": "4 passatgers per barca",
-            "fi-FI": "4 matkustajaa per vene"
+            "fi-FI": "4 matkustajaa per vene",
+            "hu-HU": "4 utas csónakonként"
         }
     }
 }

@@ -28,11 +28,12 @@
             "pl-PL": "Chodnik mozaikowy",
             "ru-RU": "Тропа в стиле мозайки",
             "ja-JP": "モザイクの木造",
-            "eo-ZZ": "Mozaiko-Trotuaro",
+            "eo-ZZ": "Mozaika trotuaro",
             "ca-ES": "Camí amb mosaic de rajoles",
             "fi-FI": "Mosaiikkipolku",
             "zh-CN": "马赛克人行道",
-            "gl-ES": "Sendeiro de mosaicos"
+            "gl-ES": "Sendeiro de mosaicos",
+            "hu-HU": "Mozaikos járda"
         }
     }
 }

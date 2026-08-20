@@ -1,0 +1,49 @@
+{
+    "id": "rct2.station.classical",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STC|00000000",
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
+    "objectType": "station",
+    "properties": {
+        "height": 34,
+        "scrollingMode": 19,
+        "hasShelter": true
+    },
+    "images": [
+        { "path": "images/icon.png", "x": 1, "y": 0 },
+        "$G1[22696..22711]",
+        "$G1[22505..22516]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Classical / Roman",
+            "de-DE": "Klassisch / Römisch",
+            "it-IT": "Classico / Romano",
+            "nl-NL": "Klassiek / Romeins",
+            "ko-KR": "고전 / 로마",
+            "zh-CN": "经典 / 罗马",
+            "ar-EG": "كلاسيكية / رومانية",
+            "nb-NO": "Klassisk / Romersk",
+            "hu-HU": "Klasszikus / római",
+            "es-ES": "Clásico / Romano",
+            "pt-BR": "Clássica / Romana",
+            "ja-JP": "クラシック/ローマ風",
+            "fr-FR": "Classique/Romain",
+            "pl-PL": "Klasyczny / Rzymski",
+            "eo-ZZ": "Klasika / Romia",
+            "sv-SE": "Klassisk / Romersk",
+            "ca-ES": "Clàssica / Romana",
+            "fi-FI": "Klassinen/roomalainen",
+            "ru-RU": "Классика / Рим",
+            "gl-ES": "Clásica/Romana",
+            "cs-CZ": "Klasický / Římský"
+        }
+    }
+}

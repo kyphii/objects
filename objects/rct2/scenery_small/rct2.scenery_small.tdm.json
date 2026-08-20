@@ -41,10 +41,11 @@
             "ja-JP": "ダイヤモンド型の木",
             "pl-PL": "Drzewko karowe",
             "ru-RU": "Дерево в форме бубна",
-            "eo-ZZ": "Diamantoforma Arbo",
+            "eo-ZZ": "Diamantoforma arbo",
             "ca-ES": "Arbre en forma d’arbre",
             "fi-FI": "Ruudun muotoinen puu",
-            "gl-ES": "Árbore en forma de diamante"
+            "gl-ES": "Árbore en forma de diamante",
+            "hu-HU": "Gyémánt alakú fa"
         }
     }
 }

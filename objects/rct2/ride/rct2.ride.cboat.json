@@ -37,10 +37,9 @@
             "poweredAcceleration": 8,
             "poweredMaxSpeed": 5,
             "drawOrder": 5,
-            "frames": {
-                "flat": true
+            "spriteGroups": {
+                "slopeFlat": 16
             },
-            "VEHICLE_ENTRY_FLAG_11": true,
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,

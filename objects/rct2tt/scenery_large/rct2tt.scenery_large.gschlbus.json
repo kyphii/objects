@@ -48,11 +48,12 @@
             "pl-PL": "Gimbus",
             "ru-RU": "Школьный автобус",
             "ja-JP": "スクールバス",
-            "eo-ZZ": "Lernejo-Buso",
+            "eo-ZZ": "Lernejo-buso",
             "ca-ES": "Autobús escolar",
             "fi-FI": "Koulubussi",
             "zh-CN": "校车",
-            "gl-ES": "Autobús escolar"
+            "gl-ES": "Autobús escolar",
+            "hu-HU": "Iskolabusz"
         }
     }
 }

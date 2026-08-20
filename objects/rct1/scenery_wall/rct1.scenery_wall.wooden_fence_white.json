@@ -5,6 +5,7 @@
         "Simon Foster"
     ],
     "version": "1.0",
+    "originalId": "00000043|#RCT1W05|00000000",
     "sourceGame": "rct1",
     "isCompatibilityObject": true,
     "objectType": "scenery_wall",
@@ -39,7 +40,7 @@
             "pl-PL": "Drewniany płot",
             "ru-RU": "Деревянный забор",
             "ar-EG": "سياج خشبي",
-            "eo-ZZ": "Ligna Barilo",
+            "eo-ZZ": "Ligna barilo",
             "ca-ES": "Tanca de fusta",
             "fi-FI": "Puinen aita",
             "gl-ES": "Cerca de madeira",

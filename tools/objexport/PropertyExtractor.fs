@@ -492,7 +492,7 @@ module PropertyExtractor =
           defaultCar = int ride.Header.DefaultCarType
           headCars = headCars
           tailCars = tailCars
-          ratingMultipler = ratingMultiplier
+          ratingMultiplier = ratingMultiplier
           maxHeight = int ride.Header.MaxHeight
           carColours =
               // ObjectData library doesn't keep whether colours are per car or not
@@ -652,7 +652,7 @@ module PropertyExtractor =
           hasSecondaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap2)
           hasTertiaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap3)
           hasGlass = wall.Header.Flags.HasFlag(WallFlags.Glass)
-          isOpaque = ((int wall.Header.Effects) &&& (1 <<< 3)) <> 0
+          isTransparent = ((int wall.Header.Effects) &&& (1 <<< 3)) <> 0
           isAllowedOnSlope = not (wall.Header.Flags.HasFlag(WallFlags.Flat))
           doorSound = (int wall.Header.Effects >>> 1) &&& 3
           height = int wall.Header.Clearance

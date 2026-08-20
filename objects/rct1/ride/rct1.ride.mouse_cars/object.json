@@ -18,7 +18,7 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 2
         },
         "carColours": [
@@ -306,7 +306,8 @@
             "ca-ES": "Cotxes ratolí",
             "fi-FI": "Hiirivaunut",
             "gl-ES": "Coches de rato",
-            "ar-EG": "عربات الفئران"
+            "ar-EG": "عربات الفئران",
+            "hu-HU": "Egérkocsik"
         },
         "description": {
             "en-GB": "Individual cars shaped like a mouse",
@@ -326,10 +327,11 @@
             "ja-JP": "小さなネズミの形をした車両が木製のコースをちょこまかと走り回り、危なっかしくヘアピンを曲がったり急降下したりするスリリングな乗物です",
             "pl-PL": "Wagoniki w kształcie myszy jadące po zygzakowatym drewnianym torze, przechylające się na ostrych zakrętach i zdradliwych zjazdach",
             "ru-RU": "Машины, похожие по форме на мышей",
-            "eo-ZZ": "Individualaj ĉaroj formitaj kiel muso",
+            "eo-ZZ": "Individualaj ĉaroj, formitaj kiel muso",
             "ca-ES": "Cotxes individuals en forma de ratolí.",
             "fi-FI": "Yksittäiset hiiren muotoiset vaunut",
-            "gl-ES": "Coches individuais con forma de rato"
+            "gl-ES": "Coches individuais con forma de rato",
+            "hu-HU": "Különálló kocsik egér formában"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -351,7 +353,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "hu-HU": "2 utas kocsinként"
         }
     },
     "noCsgImages": [

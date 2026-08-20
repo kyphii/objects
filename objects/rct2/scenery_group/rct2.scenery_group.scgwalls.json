@@ -108,10 +108,11 @@
             "ja-JP": "壁と屋根",
             "pl-PL": "Ściany i dachy",
             "ru-RU": "Стены и крыши",
-            "eo-ZZ": "Muroj kaj Tegmentoj",
+            "eo-ZZ": "Muroj kaj tegmentoj",
             "ca-ES": "Parets i teulades",
             "fi-FI": "Seinät ja katot",
-            "gl-ES": "Paredes e Teitos"
+            "gl-ES": "Paredes e Teitos",
+            "hu-HU": "Falak és tetők"
         }
     }
 }

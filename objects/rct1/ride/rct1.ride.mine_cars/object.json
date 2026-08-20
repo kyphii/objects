@@ -18,7 +18,7 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "intensity": 2
         },
         "carColours": [
@@ -305,7 +305,8 @@
             "ca-ES": "Tren de la mina",
             "fi-FI": "Kaivosvaunut",
             "gl-ES": "Coches de mina",
-            "ar-EG": "عربات المنجم"
+            "ar-EG": "عربات المنجم",
+            "hu-HU": "Bánya kocsik"
         },
         "description": {
             "en-GB": "Cars shaped like an old mine cart",
@@ -323,11 +324,12 @@
             "ja-JP": "小さなトロッコが木製のコースをジグザグに走り、危なっかしくヘアピンを曲がったり急降下したりするスリリングな乗物です",
             "pl-PL": "Małe wózki kopalniane jadące po zygzakowatym drewnianym torze, przechylające się na ostrych zakrętach i zdradliwych zjazdach",
             "ru-RU": "Машины в форме старых вагонеток.",
-            "eo-ZZ": "Ĉaroj formitaj kiel malnova minĉaro",
+            "eo-ZZ": "Ĉaroj, formitaj kiel malnova minĉaro",
             "ca-ES": "Cotxes en forma de vagonetes antigues.",
             "fi-FI": "Vanhan kaivoskärryn muotoiset vaunut",
             "gl-ES": "Coches con forma de vello vagón de mina",
-            "ar-EG": "عربات على شكل عربة منجم قديمة"
+            "ar-EG": "عربات على شكل عربة منجم قديمة",
+            "hu-HU": "Régi bányacsillékre emlékeztető kocsik"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -349,7 +351,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "hu-HU": "2 utas kocsinként"
         }
     },
     "noCsgImages": [

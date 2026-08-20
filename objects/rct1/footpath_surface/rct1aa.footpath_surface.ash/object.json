@@ -36,10 +36,11 @@
             "pl-PL": "Dróżka żwirowa",
             "ru-RU": "Гравийная тропа (квадрат)",
             "ar-EG": "ممشي رماد",
-            "eo-ZZ": "Trotuaro el Cindropovo (Kvadrata)",
+            "eo-ZZ": "Trotuaro el cindro (kvadrata)",
             "ca-ES": "Camí de cendra (angulós)",
             "fi-FI": "Tuhkapolku (suorakulmainen)",
-            "gl-ES": "Camiño de cinza (Cadrado)"
+            "gl-ES": "Camiño de cinza (Cadrado)",
+            "hu-HU": "Hamuszürke járda (négyzet)"
         }
     }
 }

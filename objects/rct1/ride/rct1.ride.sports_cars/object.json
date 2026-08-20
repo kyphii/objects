@@ -40,6 +40,7 @@
                 "rotationFrameMask": 15,
                 "spacing": 174320,
                 "mass": 300,
+                "tabOffset": -2,
                 "numSeats": 2,
                 "numSeatRows": 1,
                 "poweredAcceleration": 90,
@@ -189,7 +190,8 @@
             "ca-ES": "Cotxes esportius",
             "fi-FI": "Urheiluautot",
             "gl-ES": "Coches deportivos",
-            "ar-EG": "سيارات رياضية"
+            "ar-EG": "سيارات رياضية",
+            "hu-HU": "Sportautók"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of sports cars",
@@ -207,11 +209,12 @@
             "ja-JP": "スポーツカーの形をした、動力付きの車両です",
             "pl-PL": "Pojazdy z napędem w kształcie samochodów wyścigowych",
             "ru-RU": "Электромашины в форме спорткаров",
-            "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel sportaŭtoj",
+            "eo-ZZ": "Ŝaltitaj veturiloj, formitaj kiel sportaŭtoj",
             "ca-ES": "Vehicles en forma de cotxes esportius.",
             "fi-FI": "Urheiluauton muotoiset moottoroidut ajoneuvot",
             "gl-ES": "Vehículos motorizados en forma de coches deportivos",
-            "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات رياضية"
+            "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات رياضية",
+            "hu-HU": "Motoros járművek sportautó formában"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -233,7 +236,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per auto",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل سيارة"
+            "ar-EG": "راكبان لكل سيارة",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

@@ -45,6 +45,7 @@
             "rotationFrameMask": 31,
             "spacing": 200468,
             "mass": 300,
+            "tabOffset": -4,
             "numSeats": 2,
             "numSeatRows": 1,
             "frictionSoundId": 32,
@@ -90,7 +91,8 @@
             "eo-ZZ": "Boatetoj",
             "fi-FI": "Puhallettavat veneet",
             "ca-ES": "Bots inflables",
-            "gl-ES": "Botes pequenos"
+            "gl-ES": "Botes pequenos",
+            "hu-HU": "Gumicsónakok"
         },
         "description": {
             "en-GB": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
@@ -111,7 +113,8 @@
             "eo-ZZ": "Plenblovitaj boatetoj, kiuj malsupreniras kurboplenan duoncirklan aŭ cirklan tubotrakon",
             "ca-ES": "Bots inflables que baixen per uns tubs semicirculars o totalment tancats.",
             "fi-FI": "Matkustajat liukuvat puhallettavissa veneissä alas puolikuun tai umpinaisen putken muotoista rataa",
-            "gl-ES": "Botes inflables que poden xirar por unha pista de tubo semicírculo ou completamente pechada"
+            "gl-ES": "Botes inflables que poden xirar por unha pista de tubo semicírculo ou completamente pechada",
+            "hu-HU": "Felfújható gumicsónakok, amelyek kanyarogva csúsznak le a félköríves vagy teljesen zárt csőpályán"
         },
         "capacity": {
             "en-GB": "2 passengers per dinghy",
@@ -132,7 +135,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por boateto",
             "ca-ES": "2 passatgers per bot inflable",
             "fi-FI": "2 matkustajaa per vene",
-            "gl-ES": "2 pasaxeiros por bote"
+            "gl-ES": "2 pasaxeiros por bote",
+            "hu-HU": "2 utas csónakonként"
         }
     }
 }

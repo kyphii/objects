@@ -66,11 +66,12 @@
             "ja-JP": "公会堂",
             "pl-PL": "Ratusz",
             "ru-RU": "Мэрия",
-            "eo-ZZ": "Urbdomo",
+            "eo-ZZ": "Urbodomo",
             "ca-ES": "Ajuntament",
             "fi-FI": "Kaupungintalo",
             "ar-EG": "قاعة المدينة",
-            "gl-ES": "Concello"
+            "gl-ES": "Concello",
+            "hu-HU": "Városháza"
         }
     }
 }

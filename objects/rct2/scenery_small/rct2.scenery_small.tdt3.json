@@ -41,10 +41,11 @@
             "ja-JP": "枯れ木",
             "pl-PL": "Uschłe drzewo",
             "ru-RU": "Мёртвое дерево",
-            "eo-ZZ": "Morta Arbo",
+            "eo-ZZ": "Senviva arbo",
             "ca-ES": "Arbre mort",
             "fi-FI": "Kuollut puu",
-            "gl-ES": "Árbore Morta"
+            "gl-ES": "Árbore Morta",
+            "hu-HU": "Kiszáradt fa"
         }
     }
 }

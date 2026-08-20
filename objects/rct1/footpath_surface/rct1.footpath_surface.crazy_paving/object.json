@@ -36,10 +36,11 @@
             "pl-PL": "Zwariowana dróżka",
             "ru-RU": "Сумашедший тротуар (с наклоном)",
             "ar-EG": "ممشي مجنون مرصوف",
-            "eo-ZZ": "Freneza-Pavima Trotuaro (Dekliva)",
+            "eo-ZZ": "Freneza-pavima trotuaro (dekliva)",
             "ca-ES": "Camí d’empedrat boig (amb rampes)",
             "fi-FI": "Hulluttelupolku (mäellä)",
-            "gl-ES": "Camiño de Lousas Tolas (Inclinadas)"
+            "gl-ES": "Camiño de Lousas Tolas (Inclinadas)",
+            "hu-HU": "Törtkő burkolatú járda (lejtős)"
         }
     }
 }

@@ -40,10 +40,11 @@
             "ja-JP": "黒キング",
             "pl-PL": "Czarny król",
             "ru-RU": "Чёрный король",
-            "eo-ZZ": "Nigra Reĝo",
+            "eo-ZZ": "Nigra reĝo",
             "ca-ES": "Rei negre",
             "fi-FI": "Musta kuningas",
-            "gl-ES": "Rei Negro"
+            "gl-ES": "Rei Negro",
+            "hu-HU": "Sötét király"
         }
     }
 }

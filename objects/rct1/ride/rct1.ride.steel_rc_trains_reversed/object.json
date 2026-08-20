@@ -18,11 +18,12 @@
         "defaultCar": 1,
         "tailCars": 0,
         "buildMenuPriority": 1,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 2,
             "intensity": 15,
             "nausea": 30
         },
+        "noReverseOption": true,
         "carColours": [
             [
                 [
@@ -3028,7 +3029,9 @@
             "ru-RU": "Поезда для аттракционов (реверс)",
             "gl-ES": "Trens de montaña rusa (invertidos)",
             "ar-EG": "قطارات أفعوانية (معكوسة)",
-            "cs-CZ": "Vlaky horské dráhy (obrácené)"
+            "cs-CZ": "Vlaky horské dráhy (obrácené)",
+            "eo-ZZ": "Trajnoj de onda fervojo (inversigita)",
+            "hu-HU": "Hullámvasút szerelvények (fordított)"
         },
         "description": {
             "en-GB": "Roller coaster train running in reverse, so that the passengers face backwards.",
@@ -3043,7 +3046,9 @@
             "ru-RU": "Поезда для аттракционов, едущие в обратную сторону: пассажиры повернуты лицом назад.",
             "gl-ES": "Tren de montaña rusa que circula ao revés, de xeito que os pasaxeiros miran cara atrás",
             "ar-EG": "قطار أفعواني يسير في الاتجاه المعاكس، بحيث يواجه الركاب الخلف.",
-            "cs-CZ": "Vlaky horské dráhy jezdící pozpátku"
+            "cs-CZ": "Vlaky horské dráhy jezdící pozpátku",
+            "eo-ZZ": "Trajno de onda fervojo veturanta inverse, tiel ke la pasaĝeroj rigardas dorsantaŭen.",
+            "hu-HU": "Hátramenetben közlekedő hullámvasút szerelvény, így az utasok menetiránynak háttal ülnek."
         },
         "capacity": {
             "en-GB": "4 riders per car",
@@ -3065,7 +3070,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

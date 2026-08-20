@@ -46,11 +46,12 @@
             "pl-PL": "Drzwi więzienne",
             "ru-RU": "Тюремная дверь",
             "ja-JP": "刑務所のドア",
-            "eo-ZZ": "Pordo de Malliberejo",
+            "eo-ZZ": "Pordo de malliberejo",
             "ca-ES": "Porta de presó",
             "fi-FI": "Vankilan ovi",
             "zh-CN": "监狱-门",
-            "gl-ES": "Porta de prisión"
+            "gl-ES": "Porta de prisión",
+            "hu-HU": "Börtönajtó"
         }
     }
 }

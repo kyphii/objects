@@ -12,10 +12,14 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Steel Mini Roller Coaster Competition"
+            "en-GB": "Steel Mini Roller Coaster Competition",
+            "ca-ES": "Competició de muntanyes russes petites d’acer",
+            "pl-PL": "Zawody w budowaniu stalowych miniaturowych kolejek"
         },
         "park_name": {
-            "en-GB": "Competition Land"
+            "en-GB": "Competition Land",
+            "ca-ES": "Terreny de competició",
+            "pl-PL": "Kraina rywalizacji"
         },
         "details": {
             "en-GB": ""

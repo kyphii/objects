@@ -45,10 +45,11 @@
             "ja-JP": "スポーツ風のテーマ",
             "pl-PL": "Wystrój sportowy",
             "ru-RU": "Спортивная тема",
-            "eo-ZZ": "Temo de Sportoj",
+            "eo-ZZ": "Temo de sportoj",
             "ca-ES": "Temàtica esportiva",
             "fi-FI": "Urheiluteemaus",
-            "gl-ES": "Temática deportiva"
+            "gl-ES": "Temática deportiva",
+            "hu-HU": "Sport téma"
         }
     }
 }

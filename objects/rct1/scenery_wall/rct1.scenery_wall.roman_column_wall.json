@@ -5,6 +5,7 @@
         "Simon Foster"
     ],
     "version": "1.0",
+    "originalId": "00000043|#RCT1W02|00000000",
     "sourceGame": "rct1",
     "isCompatibilityObject": true,
     "objectType": "scenery_wall",
@@ -37,11 +38,12 @@
             "ja-JP": "ローマの柱の壁",
             "pl-PL": "Ściana z rzymskich kolumn",
             "ru-RU": "Стена из римских колонн",
-            "eo-ZZ": "Muro de Roma Kolono",
+            "eo-ZZ": "Muro de romia kolono",
             "ca-ES": "Fila de columnes romanes",
             "fi-FI": "Roomalainen pylvässeinä",
             "gl-ES": "Muro de Columnas Romanas",
-            "ar-EG": "جدار أعمدة رومانية"
+            "ar-EG": "جدار أعمدة رومانية",
+            "hu-HU": "Római oszlopfal"
         }
     }
 }

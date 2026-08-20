@@ -23,7 +23,7 @@
             "en-GB": "Green Queue",
             "de-DE": "Grüne Warteschlange",
             "nl-NL": "Groene wachtrij",
-            "eo-ZZ": "Verda Atendovico",
+            "eo-ZZ": "Verda atendovico",
             "ar-EG": "طابور إنتظار أخضر",
             "ca-ES": "Cua verda",
             "ko-KR": "녹색 대기줄",
@@ -34,7 +34,8 @@
             "ru-RU": "Зелёная очередь",
             "gl-ES": "Cola verde",
             "ja-JP": "緑の行列",
-            "cs-CZ": "Zelená fronta"
+            "cs-CZ": "Zelená fronta",
+            "hu-HU": "Zöld várósor"
         }
     }
 }

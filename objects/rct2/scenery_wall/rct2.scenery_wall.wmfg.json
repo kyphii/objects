@@ -12,7 +12,7 @@
     ],
     "objectType": "scenery_wall",
     "properties": {
-        "isOpaque": true,
+        "isTransparent": true,
         "height": 2,
         "price": 40
     },
@@ -36,7 +36,7 @@
             "ja-JP": "メッシュのフェンス",
             "pl-PL": "Płot z siatki",
             "ru-RU": "Изгородь",
-            "eo-ZZ": "Maŝa Barilo",
+            "eo-ZZ": "Maŝa barilo",
             "ca-ES": "Tanca de malla",
             "fi-FI": "Verkkoaita",
             "gl-ES": "Valado de Rede"

@@ -40,10 +40,11 @@
             "ja-JP": "黒ルーク",
             "pl-PL": "Czarna wieża",
             "ru-RU": "Чёрная ладья",
-            "eo-ZZ": "Nigra Turo",
+            "eo-ZZ": "Nigra turo",
             "ca-ES": "Torre negra",
             "fi-FI": "Musta torni",
-            "gl-ES": "Torre negra"
+            "gl-ES": "Torre negra",
+            "hu-HU": "Sötét bástya"
         }
     }
 }

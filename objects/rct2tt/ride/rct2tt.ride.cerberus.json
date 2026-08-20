@@ -16,7 +16,7 @@
         "numEmptyCars": 1,
         "tabCar": 1,
         "headCars": 1,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 15,
             "intensity": 3
         },
@@ -129,7 +129,7 @@
             "cs-CZ": "Kerberosovy vlaky",
             "pl-PL": "Cerber",
             "ru-RU": "Поезда «Цербер»",
-            "eo-ZZ": "Cerbero-Trajnoj",
+            "eo-ZZ": "Cerbero-trajnoj",
             "ca-ES": "Trens Cèrber",
             "fi-FI": "Kerberos-vaunut",
             "zh-CN": "地狱犬列车",

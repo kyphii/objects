@@ -7,6 +7,7 @@
     "version": "1.0",
     "originalId": "0A92ED09|WTRPINK |30DF82E8",
     "sourceGame": "official",
+    "isCompatibilityObject": true,
     "objectType": "water",
     "properties": {
         "palettes": {
@@ -385,7 +386,7 @@
             "it-IT": "Acqua rosa",
             "pl-PL": "Różowa woda",
             "ko-KR": "분홍색 물",
-            "eo-ZZ": "Rozkolora Akvo",
+            "eo-ZZ": "Rozkolora akvo",
             "sv-SE": "Rosa vatten",
             "ca-ES": "Aigua rosa",
             "fi-FI": "Vaaleanpunainen vesi",

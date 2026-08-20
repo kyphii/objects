@@ -12,10 +12,14 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Stand-Up Steel Roller Coaster Competition"
+            "en-GB": "Stand-Up Steel Roller Coaster Competition",
+            "ca-ES": "Competició de muntanyes russes d’acer a peu dret",
+            "pl-PL": "Zawody w budowaniu stalowych kolejek stojących"
         },
         "park_name": {
-            "en-GB": "Competition Land"
+            "en-GB": "Competition Land",
+            "ca-ES": "Terreny de competició",
+            "pl-PL": "Kraina rywalizacji"
         },
         "details": {
             "en-GB": ""

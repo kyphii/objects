@@ -24,24 +24,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Kremlin Roof Piece 1",
-            "fr-FR": "Pan de toit du Kremlin 1",
-            "de-DE": "Kreml - Dach-Bauteil 1",
-            "es-ES": "Pieza de tejado del Kremlin 1",
-            "it-IT": "Pezzo di tetto del Cremlino 1",
-            "nl-NL": "Stuk dak Kremlin 1",
-            "sv-SE": "Takdel 1 till Kreml-torn",
-            "cs-CZ": "Kremlinská střecha díl 1",
-            "ko-KR": "크렘린 지붕 조각 1",
-            "pl-PL": "Segment dachu kremlowskiego 1",
-            "ru-RU": "Кремлёвская крыша 1",
-            "pt-BR": "Peça de Telhado do Kremlin 1",
-            "ja-JP": "クレムリン　屋根部分1",
-            "eo-ZZ": "Tegmento de Kremlo, Parto 1",
-            "ca-ES": "Part de la teulada del Kremlin 1",
-            "fi-FI": "Kremlinin katon osa 1",
-            "zh-CN": "克里姆林宫-房顶1",
-            "gl-ES": "Peza 1 de Teito do Kremlin"
+            "en-GB": "St. Basil’s Cathedral Dome Piece",
+            "fr-FR": "Pièce de dôme du Kremlin",
+            "de-DE": "Kreml - Zwiebelkuppel-Bauteil",
+            "es-ES": "Pieza de cúpula del Kremlin",
+            "it-IT": "Pezzo di cupola del Cremlino",
+            "nl-NL": "Koepel Basiliuskathedraal",
+            "sv-SE": "Del 3 till Kreml-minarettorn",
+            "cs-CZ": "Kremlinský Minaret díl",
+            "ko-KR": "크렘린 성탑 조각",
+            "pl-PL": "Segment dachu kremlowskiego",
+            "ru-RU": "Кремлёвский минарет",
+            "pt-BR": "Peça de Minarete do Kremlin",
+            "ja-JP": "クレムリン　ミナレット部分",
+            "eo-ZZ": "Minareto de Kremlo, parto",
+            "ca-ES": "Part del minaret del Kremlin",
+            "fi-FI": "Kremlinin minareetin osa",
+            "zh-CN": "克里姆林宫-宣礼塔",
+            "gl-ES": "Peza de Teito do Kremlin"
         }
     }
 }

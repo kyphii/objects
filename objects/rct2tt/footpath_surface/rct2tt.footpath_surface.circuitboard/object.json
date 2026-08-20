@@ -28,11 +28,12 @@
             "pl-PL": "Dróżka obwodowa",
             "ru-RU": "Тропа в стиле компьютерной платы",
             "ja-JP": "迂回路の歩道",
-            "eo-ZZ": "Cirkvitkarta Trotuaro",
+            "eo-ZZ": "Elektrocirkvita trotuaro",
             "ca-ES": "Camí d’estil circuit elèctric",
             "fi-FI": "Virtapiiripolku",
             "zh-CN": "电路人行道",
-            "gl-ES": "Sendeiro do circuíto"
+            "gl-ES": "Sendeiro do circuíto",
+            "hu-HU": "Áramköri lap járda"
         }
     }
 }

@@ -20,7 +20,7 @@
             "en-GB": "Rainbow Queue",
             "de-DE": "Regenbogenwarteschlange",
             "nl-NL": "Regenboogwachtrij",
-            "eo-ZZ": "Ĉielarka Atendovico",
+            "eo-ZZ": "Ĉielarka atendovico",
             "ca-ES": "Cua arc de Sant Martí",
             "fr-FR": "File d’attente arc-en-ciel",
             "ko-KR": "무지개 대기줄",
@@ -32,7 +32,8 @@
             "ja-JP": "虹の行列",
             "gl-ES": "Fila do Arco da vella",
             "cs-CZ": "Duhová fronta",
-            "es-ES": "Cola Arcoíris"
+            "es-ES": "Cola Arcoíris",
+            "hu-HU": "Szivárványos várósor"
         }
     }
 }

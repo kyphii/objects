@@ -18,7 +18,7 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 35,
             "intensity": 20,
             "nausea": 10
@@ -108,7 +108,7 @@
             "pl-PL": "Potworne pikapy",
             "ru-RU": "Грузовики",
             "ar-EG": "سيارات الوحش",
-            "eo-ZZ": "Monstro-Kamionoj",
+            "eo-ZZ": "Monstro-kamionoj",
             "sv-SE": "Monstertruckar",
             "ca-ES": "Camions monstruosos",
             "fi-FI": "Monsteriautot",

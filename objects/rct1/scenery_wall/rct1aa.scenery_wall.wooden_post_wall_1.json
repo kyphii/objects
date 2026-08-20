@@ -5,6 +5,7 @@
         "Simon Foster"
     ],
     "version": "1.0",
+    "originalId": "00000053|#RCT1W07|00000000",
     "sourceGame": "rct1aa",
     "isCompatibilityObject": true,
     "objectType": "scenery_wall",
@@ -37,7 +38,7 @@
             "ja-JP": "木製の柱の壁",
             "pl-PL": "Ściana z drewnianych słupków",
             "ru-RU": "Стена из деревянных столбов",
-            "eo-ZZ": "Muro el Lignaj Fostoj",
+            "eo-ZZ": "Muro el lignaj fostoj",
             "ca-ES": "Paret de pals de fusta",
             "fi-FI": "Puutolppaseinä",
             "gl-ES": "Muro de Postes de Madeira",
